@@ -44,3 +44,6 @@ Yosuke Mikami, Daiki Matsuoka, and Hitomi Yanaka. 2025. Can Large Language Model
     ISBN = "979-8-89176-316-6"
 }
 ```
+
+## Contact
+If you have any questions or feedback, please open an issue. For private inquiries, please contact ymikami(at)is.s.u-tokyo.ac.jp
